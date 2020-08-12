@@ -1,5 +1,7 @@
 # NTUGL_cal
-NTU Global Lounge Activity Calendar
-https://breakfasting.github.io/NTUGL_cal/index.html
+### NTU Global Lounge Activity Calendar
+Managing upcoming events for NTU Global Lounge
 
-2018/04/04 Updating to ReactJS
+[Live Site](https://github.waynesu.com/NTUGL_cal/index.html)
+
+![Screenshot](https://i.imgur.com/aHrvBaG.png)
